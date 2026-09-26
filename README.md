@@ -16,3 +16,5 @@ A comprehensive job portal application built using the MERN (MongoDB, Express.js
 - **Authentication:** JWT (JSON Web Tokens), Bcrypt (for password hash)
 - **Image Upload:** Cloudinary for storing and managing uploaded images
 - **Deployment:** Vercel (frontend), Render(backend), MongoDB Atlas (database)
+
+- Deployment configuration updated.
